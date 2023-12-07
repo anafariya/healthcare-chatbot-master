@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/HealthCare-ChatBot.git
+   git clone https://github.com/anafariya/HealthCare-ChatBot.git
    
 Navigate to the project directory:
  
